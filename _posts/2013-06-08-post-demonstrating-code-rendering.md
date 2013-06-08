@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Post demonstrating code rendering"
-comments: true
+date:   2013-06-07 18:55:02
 category: code demo
 ---
 
