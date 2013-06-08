@@ -1,6 +1,6 @@
 name: Your New Jekyll Site
 pygments: true
-permalink: theme-readable.github.io/:categories/:year/:month/:day/:title 
+permalink: /theme-readable.github.io/:categories/:year/:month/:day/:title 
 
 author :
   name : Pradeep Nayak
